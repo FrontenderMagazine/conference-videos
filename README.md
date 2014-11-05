@@ -5,10 +5,12 @@ This document contains list of links to videos from conferences
 Please, feel free to make pull-request if you want add link to conference video channel
 
 ## UA, RU
+----------------------------------|----------------------------------|-------------------------------------------------
 StartupLviv                       |  Lviv, Ukraine                   |  https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
 
 
 ## RU
+----------------------------------|----------------------------------|-------------------------------------------------
 Web Standards Days                |  Worldwide                       |  https://www.youtube.com/user/wstdays
                                                                      |  https://vimeo.com/channels/wstdays
 FrontTalks                        |  Yekaterinburg, Russia           |  https://vimeo.com/fronttalks
@@ -19,6 +21,7 @@ FrontendDevConf                   |  Minsk, Belarus                  |  https://
 
 
 ## EN
+----------------------------------|----------------------------------|-------------------------------------------------
 Fronteers                         |  Amsterdam, Netherlands          |  https://vimeo.com/fronteers
 Front-Trends                      |  Warsaw, Poland                  |  https://vimeo.com/fronttrends
 Web Rebels                        |  Oslo, Norway                    |  https://vimeo.com/webrebels
