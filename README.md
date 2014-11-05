@@ -12,30 +12,29 @@ Please, feel free to make pull-request if you want add link to conference video 
 
 ## RU
 
-#### [Web Standards Days](http://webstandardsdays.ru/) (_Worldwide_)    
-[youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  
-[vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
+[__Web Standards Days__](http://webstandardsdays.ru/) (_Worldwide_)
+* [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)
+* [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
 
+[__FrontTalks__](http://fronttalks.ru/) (_Yekaterinburg, Russia_)   
+* [vimeo.com/fronttalks](https://vimeo.com/fronttalks)
 
-#### [FrontTalks](http://fronttalks.ru/) (_Yekaterinburg, Russia_)   
-[vimeo.com/fronttalks](https://vimeo.com/fronttalks)
+[__MoscowJS__](http://www.moscowjs.ru/) (_Moscow, Russia_)   
+* [youtube.com/user/moscowjs](https://www.youtube.com/user/moscowjs)
 
-#### [MoscowJS](http://www.moscowjs.ru/) (_Moscow, Russia_)   
-[youtube.com/user/moscowjs](https://www.youtube.com/user/moscowjs)
+[__Yandex Events__](https://events.yandex.ru/) (_Worldwide_)   
+* [events.yandex.ru](https://events.yandex.ru/)
 
-#### [Yandex Events](https://events.yandex.ru/) (_Worldwide_)   
-[events.yandex.ru](https://events.yandex.ru/)
+[__KharkivJS__](https://twitter.com/KharkivJS) (_Kharkiv, Ukraine_)   
+* [youtube.com/user/lodye1](https://www.youtube.com/user/lodye1)
 
-#### [KharkivJS](https://twitter.com/KharkivJS) (_Kharkiv, Ukraine_)   
-[youtube.com/user/lodye1](https://www.youtube.com/user/lodye1)
+[__FrontendDevConf__](http://fdconf.by/) (_Minsk, Belarus_)  
+* [youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
 
-#### [FrontendDevConf](http://fdconf.by/) (_Minsk, Belarus_)  
-[youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
+[__4front__](https://twitter.com/4frontby) (_Minsk, Belarus_)   
+* [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed)
 
-#### [4front](https://twitter.com/4frontby) (_Minsk, Belarus_)   
-[youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed)
-
-#### [The Rolling Scopes](http://rollingscopes.com/) (_Minsk, Belarus_)  
+[__The Rolling Scopes__](http://rollingscopes.com/) (_Minsk, Belarus_)  
 [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 
 
