@@ -7,8 +7,8 @@ Please, feel free to make pull-request if you want add link to conference video 
 
 ## UA, RU
 
-#### [StartupLviv](http://startup.lviv.ua/) (_Lviv, Ukraine_)    
-[youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg](https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg)
+[__StartupLviv__](http://startup.lviv.ua/) (_Lviv, Ukraine_)    
+* [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg](https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg)
 
 ## RU
 
@@ -35,7 +35,7 @@ Please, feel free to make pull-request if you want add link to conference video 
 * [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed)
 
 [__The Rolling Scopes__](http://rollingscopes.com/) (_Minsk, Belarus_)  
-[youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
+* [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 
 
 ## EN
