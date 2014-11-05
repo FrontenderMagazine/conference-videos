@@ -20,7 +20,7 @@ Conference                       | Place                               | Link
 [__Yandex Events__](https://events.yandex.ru/)  |  _Worldwide_  |  [events.yandex.ru](https://events.yandex.ru/)
 [__KharkivJS__](https://twitter.com/KharkivJS)  |  _Kharkiv, Ukraine_  |  [youtube.com/user/lodye1](https://www.youtube.com/user/lodye1)
 [__FrontendDevConf__](http://fdconf.by/)  |  _Minsk, Belarus_  |  [youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
-[__4front__](https://twitter.com/4frontby)  |  _Minsk, Belarus_  |  [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
+[__4front__](https://twitter.com/4frontby)  |  _Minsk, Belarus_  |  [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
 [__The Rolling Scopes__](http://rollingscopes.com/)  |  _Minsk, Belarus_  |  [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 
 ## EN
