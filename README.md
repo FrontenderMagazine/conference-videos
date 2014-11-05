@@ -34,3 +34,4 @@ Web Rebels                        |  Oslo, Norway                    |  https://
 CSS Days                          |  Amsterdam, Netherlands          |  https://vimeo.com/channels/cssday
 Google Chrome Developers          |  Worldwide                       |  https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw
 JSConf                            |  Worldwide                       |  https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
+Front End Ops Conference 2014     |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
