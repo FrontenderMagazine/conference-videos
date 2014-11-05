@@ -25,6 +25,7 @@ KharkivJS                         |  Kharkiv, Ukraine                |  https://
 FrontendDevConf                   |  Minsk, Belarus                  |  https://www.youtube.com/user/FrontendDevConf
 4front                            |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed
 The Rolling Scopes                |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ
+CodeFest                          |  Novosibirsk, Russia             |  https://www.youtube.com/user/codefestru
 
 ## EN
 Conference                        | Place                            | Link
