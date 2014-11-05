@@ -36,3 +36,4 @@ Google Chrome Developers          |  Worldwide                       |  https://
 JSConf                            |  Worldwide                       |  https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
 ngConf                            |  Utah                            |  https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA
 Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
+HTML5DevConf                      |  Worldwide                       |  https://www.youtube.com/user/HTML5DevConf/
