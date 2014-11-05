@@ -16,14 +16,14 @@
 
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
-[__Web Standards Days__](http://webstandardsdays.ru/)     | _Worldwide_                         | [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  |  [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
+[__Web Standards Days__](http://webstandardsdays.ru/)     | _Worldwide_                         | [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  |  [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
 [__FrontTalks__](http://fronttalks.ru/)                   | _Yekaterinburg, Russia_             | [vimeo.com/fronttalks](https://vimeo.com/fronttalks)
 [__MoscowJS__](http://www.moscowjs.ru/)                   | _Moscow, Russia_                    | [youtube.com/user/moscowjs](https://www.youtube.com/user/moscowjs)
 [__Yandex Events__](https://events.yandex.ru/)            | _Worldwide_                         | [events.yandex.ru](https://events.yandex.ru/)
 [__KharkivJS__](https://twitter.com/KharkivJS)            | _Kharkiv, Ukraine_                  | [youtube.com/user/lodye1](https://www.youtube.com/user/lodye1)
 [__FrontendDevConf__](http://fdconf.by/)                  | _Minsk, Belarus_                    | [youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
 [__4front__](https://twitter.com/4frontby)                | _Minsk, Belarus_                    | [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
-[__The Rolling Scopes__](http://rollingscopes.com/)       | _Minsk, Belarus_                    | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
+[__The Rolling Scopes__](http://rollingscopes.com/)       | _Minsk, Belarus_                    | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 [__CodeFest__](http://codefest.ru/)                       | _Novosibirsk, Russia_               | [youtube.com/user/codefestru](https://www.youtube.com/user/codefestru)
 
 ## Английский
@@ -36,8 +36,8 @@
 [__CSS Day__](http://cssday.nl/)                          | _Amsterdam, Netherlands_            | [vimeo.com/channels/cssday](https://vimeo.com/channels/cssday)
 [__Google Chrome Developers__](https://developer.chrome.com/devsummit/) | _Worldwide_           | [youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 [__JSConf__](http://jsconf.com/)                          | _Worldwide_                         | [youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
-[__ngConf__](http://ng-conf.org/)                         | _Utah_                              | [youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
-[__Front End Ops Conference__](http://www.feopsconf.com/) | _San Francisco, CA_                 | [youtube.com/user/frontendopsconf](https://www.youtube.com/user/frontendopsconf)
+[__ngConf__](http://ng-conf.org/)                         | _Utah, USA_                         | [youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+[__Front End Ops Conference__](http://www.feopsconf.com/) | _San Francisco, USA_                | [youtube.com/user/frontendopsconf](https://www.youtube.com/user/frontendopsconf)
 [__HTML5DevConf__](http://html5devconf.com/)              | _Worldwide_                         | [youtube.com/user/HTML5DevConf/](https://www.youtube.com/user/HTML5DevConf/)
 [__So Coded Conf__](http://socoded.com/)                  | _Hamburg, Germany_                  | [youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg](https://www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg)
 [__LXJS__](http://lxjs.org/)                              | _Lisbon, Portugal_                  | [youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w](https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w)
