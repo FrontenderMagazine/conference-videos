@@ -25,7 +25,6 @@ KharkivJS                         |  Kharkiv, Ukraine                |  https://
 FrontendDevConf                   |  Minsk, Belarus                  |  https://www.youtube.com/user/FrontendDevConf
 4front                            |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed
 The Rolling Scopes                |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ
-Yandex Talks 					  |  Moscow, Russia                  |  https://events.yandex.ru/lib/talks/
 
 ## EN
 Conference                        | Place                            | Link
@@ -38,3 +37,9 @@ Google Chrome Developers          |  Worldwide                       |  https://
 JSConf                            |  Worldwide                       |  https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
 ngConf                            |  Utah                            |  https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA
 Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
+HTML5DevConf                      |  Worldwide                       |  https://www.youtube.com/user/HTML5DevConf/
+So Coded Conf                     |  Hamburg, Germany                |  https://www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg
+LXJS                              |  Lisbon, Portugal                |  https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w
+Dutch Mobile Conference           |  Amsterdam, Netherlands          |  https://www.youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q
+Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
+
