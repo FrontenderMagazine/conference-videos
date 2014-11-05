@@ -42,4 +42,6 @@ So Coded Conf                     |  Hamburg, Germany                |  https://
 LXJS                              |  Lisbon, Portugal                |  https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w
 Dutch Mobile Conference           |  Amsterdam, Netherlands          |  https://www.youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q
 Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
+dotJS                             |  Paris, France                   |  https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL
+
 
