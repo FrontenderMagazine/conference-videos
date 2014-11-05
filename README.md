@@ -6,15 +6,17 @@
 Если вам известно о видео с конференций, которые тут не перечислены — сделайте, 
 пожалуйста, пулл-реквест и мы их добавим.
 
+
 ## Украинский, русский
 
-Конференция                                               | Место проведения                    | Ссылки на видео
+Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__StartupLviv__](http://startup.lviv.ua/)                |  _Lviv, Ukraine_                    | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg](https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg)
 
+
 ## Русский
 
-Конференция                                               | Место проведения                    | Ссылки на видео
+Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__Web Standards Days__](http://webstandardsdays.ru/)     | _Worldwide_                         | [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  |  [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
 [__FrontTalks__](http://fronttalks.ru/)                   | _Yekaterinburg, Russia_             | [vimeo.com/fronttalks](https://vimeo.com/fronttalks)
@@ -26,9 +28,10 @@
 [__The Rolling Scopes__](http://rollingscopes.com/)       | _Minsk, Belarus_                    | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 [__CodeFest__](http://codefest.ru/)                       | _Novosibirsk, Russia_               | [youtube.com/user/codefestru](https://www.youtube.com/user/codefestru)
 
+
 ## Английский
 
-Конференция                                               | Место проведения                    | Ссылки на видео
+Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__Fronteers__](https://fronteers.nl/)                    | _Amsterdam, Netherlands_            | [vimeo.com/fronteers](https://vimeo.com/fronteers)
 [__Front-Trends__](http://front-trends.com)               | _Warsaw, Poland_                    | [vimeo.com/fronttrends](https://vimeo.com/fronttrends)
