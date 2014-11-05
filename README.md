@@ -37,7 +37,7 @@
 [__Google Chrome Developers__](https://developer.chrome.com/devsummit/) | _Worldwide_           | [youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 [__JSConf__](http://jsconf.com/)                          | _Worldwide_                         | [youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
 [__ngConf__](http://ng-conf.org/)                         | _Utah, USA_                         | [youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
-[__Front End Ops Conference__](http://www.feopsconf.com/) | _San Francisco, USA_                | [youtube.com/user/frontendopsconf](https://www.youtube.com/user/frontendopsconf)
+[__Front End Ops Conference__](http://www.feopsconf.com/) | _San Francisco, USA_                | [youtube.com/user/frontendopsconf](https://www.youtube.com/user/frontendopsconf)
 [__HTML5DevConf__](http://html5devconf.com/)              | _Worldwide_                         | [youtube.com/user/HTML5DevConf/](https://www.youtube.com/user/HTML5DevConf/)
 [__So Coded Conf__](http://socoded.com/)                  | _Hamburg, Germany_                  | [youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg](https://www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg)
 [__LXJS__](http://lxjs.org/)                              | _Lisbon, Portugal_                  | [youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w](https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w)
