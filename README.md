@@ -7,24 +7,37 @@ Please, feel free to make pull-request if you want add link to conference video 
 
 ## UA, RU
 
-Conference                        | Place                            | Link
---------------------------------- | -------------------------------- | ------------------------------------------------
-StartupLviv                       |  Lviv, Ukraine                   |  https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
-
+#### [StartupLviv](http://startup.lviv.ua/) (_Lviv, Ukraine_)    
+[youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg](https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg)
 
 ## RU
 
-Conference                        | Place                            | Link
-----------------------------------|----------------------------------|-------------------------------------------------
-Web Standards Days                |  Worldwide                       |  https://www.youtube.com/user/wstdays
-                                  |                                  |  https://vimeo.com/channels/wstdays
-FrontTalks                        |  Yekaterinburg, Russia           |  https://vimeo.com/fronttalks
-MoscowJS                          |  Moscow, Russia                  |  https://www.youtube.com/user/moscowjs
-Yandex Events                     |  Worldwide                       |  https://events.yandex.ru/
-KharkivJS                         |  Kharkiv, Ukraine                |  https://www.youtube.com/user/lodye1
-FrontendDevConf                   |  Minsk, Belarus                  |  https://www.youtube.com/user/FrontendDevConf
-4front                            |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed
-The Rolling Scopes                |  Minsk, Belarus                  |  https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ
+#### [Web Standards Days](http://webstandardsdays.ru/) (_Worldwide_)    
+[youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  
+[vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
+
+
+#### [FrontTalks](http://fronttalks.ru/) (_Yekaterinburg, Russia_)   
+[vimeo.com/fronttalks](https://vimeo.com/fronttalks)
+
+#### [MoscowJS](http://www.moscowjs.ru/) (_Moscow, Russia_)   
+[youtube.com/user/moscowjs](https://www.youtube.com/user/moscowjs)
+
+#### [Yandex Events](https://events.yandex.ru/) (_Worldwide_)   
+[events.yandex.ru](https://events.yandex.ru/)
+
+#### [KharkivJS](https://twitter.com/KharkivJS) (_Kharkiv, Ukraine_)   
+[youtube.com/user/lodye1](https://www.youtube.com/user/lodye1)
+
+#### [FrontendDevConf](http://fdconf.by/) (_Minsk, Belarus_)  
+[youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
+
+#### [4front](https://twitter.com/4frontby) (_Minsk, Belarus_)   
+[youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed)
+
+#### [The Rolling Scopes](http://rollingscopes.com/) (_Minsk, Belarus_)  
+[youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
+
 
 ## EN
 Conference                        | Place                            | Link
