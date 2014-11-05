@@ -40,4 +40,5 @@ Dutch Mobile Conference           |  Amsterdam, Netherlands          |  https://
 LXJS                              |  Lisbon, Portugal                |  https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w
 So Coded Conf                     |  Hamburg, Germany                |  https://www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg
 HTML5DevConf                      |  Worldwide                       |  https://www.youtube.com/user/HTML5DevConf/
+dotJS                             |  Paris, France                   |   https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL
 
