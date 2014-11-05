@@ -7,9 +7,9 @@ Please, feel free to make pull-request if you want add link to conference video 
 
 ## UA, RU
 
-| Conference                        | Place                            | Link
-| --------------------------------- | -------------------------------- | ------------------------------------------------
-| StartupLviv                       |  Lviv, Ukraine                   |  https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
+Conference                        | Place                            | Link
+--------------------------------- | -------------------------------- | ------------------------------------------------
+StartupLviv                       |  Lviv, Ukraine                   |  https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
 
 
 ## RU
@@ -17,7 +17,7 @@ Please, feel free to make pull-request if you want add link to conference video 
 Conference                        | Place                            | Link
 ----------------------------------|----------------------------------|-------------------------------------------------
 Web Standards Days                |  Worldwide                       |  https://www.youtube.com/user/wstdays
-                                                                     |  https://vimeo.com/channels/wstdays
+                                  |                                  |  https://vimeo.com/channels/wstdays
 FrontTalks                        |  Yekaterinburg, Russia           |  https://vimeo.com/fronttalks
 MoscowJS                          |  Moscow, Russia                  |  https://www.youtube.com/user/moscowjs
 Yandex Events                     |  Worldwide                       |  https://events.yandex.ru/
