@@ -22,6 +22,7 @@ Conference                       | Place                               | Link
 [__FrontendDevConf__](http://fdconf.by/)  |  _Minsk, Belarus_  |  [youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
 [__4front__](https://twitter.com/4frontby)  |  _Minsk, Belarus_  |  [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
 [__The Rolling Scopes__](http://rollingscopes.com/)  |  _Minsk, Belarus_  |  [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
+[CodeFest](http://2014.codefest.ru/)  |  _Novosibirsk, Russia_  | [youtube.com/user/codefestru](https://www.youtube.com/user/codefestru)
 
 ## EN
 
