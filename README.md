@@ -32,28 +32,50 @@ Please, feel free to make pull-request if you want add link to conference video 
 * [youtube.com/user/FrontendDevConf](https://www.youtube.com/user/FrontendDevConf)
 
 [__4front__](https://twitter.com/4frontby) (_Minsk, Belarus_)   
-* [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed)
+* [youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA/feed](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
 
 [__The Rolling Scopes__](http://rollingscopes.com/) (_Minsk, Belarus_)  
 * [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
 
 
 ## EN
-Conference                        | Place                            | Link
-----------------------------------|----------------------------------|-------------------------------------------------
-Fronteers                         |  Amsterdam, Netherlands          |  https://vimeo.com/fronteers
-Front-Trends                      |  Warsaw, Poland                  |  https://vimeo.com/fronttrends
-Web Rebels                        |  Oslo, Norway                    |  https://vimeo.com/webrebels
-CSS Days                          |  Amsterdam, Netherlands          |  https://vimeo.com/channels/cssday
-Google Chrome Developers          |  Worldwide                       |  https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw
-JSConf                            |  Worldwide                       |  https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
-ngConf                            |  Utah                            |  https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA
-Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
-HTML5DevConf                      |  Worldwide                       |  https://www.youtube.com/user/HTML5DevConf/
-So Coded Conf                     |  Hamburg, Germany                |  https://www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg
-LXJS                              |  Lisbon, Portugal                |  https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w
-Dutch Mobile Conference           |  Amsterdam, Netherlands          |  https://www.youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q
-Front End Ops Conference          |  San Francisco, CA               |  https://www.youtube.com/user/frontendopsconf
-dotJS                             |  Paris, France                   |  https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL
+[Fronteers](https://fronteers.nl/) (_Amsterdam, Netherlands_)
+[vimeo.com/fronteers](https://vimeo.com/fronteers)
+
+[Front-Trends](http://front-trends.com) (_Warsaw, Poland_)
+[vimeo.com/fronttrends](https://vimeo.com/fronttrends)
+
+[Web Rebels](https://www.webrebels.org/) (_Oslo, Norway_)
+[vimeo.com/webrebels](https://vimeo.com/webrebels)
+
+[CSS Day](http://cssday.nl/) (_Amsterdam, Netherlands_)
+[vimeo.com/channels/cssday](https://vimeo.com/channels/cssday)
+
+[Google Chrome Developers](https://developer.chrome.com/devsummit/) (_Worldwide_)
+[www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw](https://www).youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw
+
+[JSConf](http://jsconf.com/) (_Worldwide_)
+[www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA](https://www.)youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
+
+[ngConf](http://ng-conf.org/) (_Utah_)
+[www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA](https://www.)youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA
+
+[Front End Ops Conference](http://www.feopsconf.com/) (_San Francisco, CA_)
+[www.youtube.com/user/frontendopsconf](https://www.youtube.com/user/)frontendopsconf
+
+[HTML5DevConf](http://html5devconf.com/) (_Worldwide_)
+[www.youtube.com/user/HTML5DevConf/](https://www.youtube.com/user/)HTML5DevConf/
+
+[So Coded Conf](http://socoded.com/) (_Hamburg, Germany_)
+[www.youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg](https://www.)youtube.com/channel/UCTC5rv8LYoXrgXkjTqEkNHg
+
+[LXJS](http://lxjs.org/) (_Lisbon, Portugal_)
+[www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w](https://www.)youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w
+
+[Dutch Mobile Conference](http://www.mobileconference.nl/) (_Amsterdam, Netherlands_)
+[www.youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q](https://www.)youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q
+
+[dotJS](http://www.dotjs.eu/) (_Paris, France_)
+[www.youtube.](https://www.youtube.)complaylist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL
 
 
