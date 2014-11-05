@@ -11,7 +11,8 @@ Please, feel free to make pull-request if you want add link to conference video 
 
 ## UA, RU
 
-| ----------------------------------|----------------------------------|-------------------------------------------------
+| Conference                        | Place                            |
+| --------------------------------- | -------------------------------- | ------------------------------------------------
 | StartupLviv                       |  Lviv, Ukraine                   |  https://www.youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
 
 
