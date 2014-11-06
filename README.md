@@ -18,7 +18,8 @@
 
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
-[__Web Standards Days__](http://webstandardsdays.ru/)     | _Worldwide_                         | [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  |  [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
+[__Web Standards Days__](http://webstandardsdays.ru/)     | _Worldwide_                         | [youtube.com/user/wstdays](https://www.youtube.com/user/wstdays)  
+                                                          |                                     | [vimeo.com/channels/wstdays](https://vimeo.com/channels/wstdays)    
 [__FrontTalks__](http://fronttalks.ru/)                   | _Yekaterinburg, Russia_             | [vimeo.com/fronttalks](https://vimeo.com/fronttalks)
 [__MoscowJS__](http://www.moscowjs.ru/)                   | _Moscow, Russia_                    | [youtube.com/user/moscowjs](https://www.youtube.com/user/moscowjs)
 [__Yandex Events__](https://events.yandex.ru/)            | _Worldwide_                         | [events.yandex.ru](https://events.yandex.ru/)
