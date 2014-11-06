@@ -46,3 +46,4 @@
 [__LXJS__](http://lxjs.org/)                              | _Lisbon, Portugal_                  | [youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w](https://www.youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w)
 [__Dutch Mobile Conference__](http://www.mobileconference.nl/) | _Amsterdam, Netherlands_       | [youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q](https://www.youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q)
 [__dotJS__](http://www.dotjs.eu/)                         | _Paris, France_                     | [youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL)
+[__Frontendconf Zürich__](http://2014.frontendconf.ch/en/) | _Zurich, Switzerland_                     | [youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg](https://www.youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg)
