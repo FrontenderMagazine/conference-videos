@@ -26,6 +26,7 @@
 [__The Rolling Scopes__][16]                              | _Минск, Беларусь_                   | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ][17]
 [__CodeFest__][18]                                        | _Новосибирск, Россия_               | [youtube.com/user/codefestru][19]
 [__404fest__][50]                                         | _Самара, Россия_                    | [youtube.com/user/404fest][50]
+[__Ростовское IT-сообщество__][it61]                      | _Ростов-на-Дону, Россия_            | [youtube.com/channel/UC63xTveSry1vvpWbM877K9Q][it61-videos]
 
 
 ## Английский
@@ -99,3 +100,5 @@
 [48]: http://2014.frontendconf.ch/en/
 [49]: https://www.youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg
 [50]: http://youtube.com/user/404fest
+[it61]: http://vk.com/it_61
+[it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
