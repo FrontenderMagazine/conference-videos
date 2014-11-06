@@ -34,6 +34,7 @@
 
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
+<<<<<<< HEAD
 [__Fronteers__][20]                                       | _Амстердам, Нидерланды_             | [vimeo.com/fronteers][21]
 [__Front-Trends__][22]                                    | _Варшава, Польша_                   | [vimeo.com/fronttrends][23]
 [__Web Rebels__][24]                                      | _Осло, Норвегия_                    | [vimeo.com/webrebels][25]
@@ -47,7 +48,8 @@
 [__LXJS__][40]                                            | _Лиссабон, Португалия_              | [youtube.com/channel/UC_h7rQVoZkfgh1stTd2GB5w][41]
 [__Dutch Mobile Conference__][42]                         | _Амстердам, Нидерланды_             | [youtube.com/channel/UCtkBykd9861oqD4syz6bz2Q][43]
 [__dotJS__][44]                                           | _Париж, Франция_                    | [youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL][45]
-[__Web Conferences Amsterdam__][46]                       | _Amsterdam, Netherlands_            | [http://vimeo.com/webconferences][47]
+[__Web Conferences Amsterdam__][46]                       | _Amsterdam, Netherlands_            | [vimeo.com/webconferences][47]
+[__Frontendconf Zürich__][48]                             | _Цюрих, Швейцария_                  | [youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg][49]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -97,3 +99,5 @@
 [45]: https://youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL
 [46]: http://webconferences.nl/
 [47]: http://vimeo.com/webconferences
+[48]: http://2014.frontendconf.ch/en/
+[49]: https://www.youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg
