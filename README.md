@@ -28,6 +28,8 @@
 [__CodeFest__][18]                                        | _Новосибирск, Россия_               | [youtube.com/user/codefestru][19]
 [__404fest__][50]                                         | _Самара, Россия_                    | [youtube.com/user/404fest][50]
 [__FrontHub__][53]                                        | _Ульяновск, Россия_                 | [youtu.be/43r7BckwquU][54]
+[__Форум Технологий mail.ru__][55]                        | _Москва, Россия_                    | [2012 youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr][56]
+                                                          |                                     | [2013 youtube.com/watch?v=f-GET3lT4wo&list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS][57]
 
 ## Английский
 
@@ -104,3 +106,6 @@
 [52]: http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ
 [53]: http://front-end.su/
 [54]: http://youtu.be/43r7BckwquU
+[55]: https://techforum.mail.ru/
+[56]: http://www.youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr
+[57]: http://www.youtube.com/playlist?list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS
