@@ -27,7 +27,7 @@
 [__The Rolling Scopes__][16]                              | _Минск, Беларусь_                   | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ][17]
 [__CodeFest__][18]                                        | _Новосибирск, Россия_               | [youtube.com/user/codefestru][19]
 [__404fest__][50]                                         | _Самара, Россия_                    | [youtube.com/user/404fest][50]
-
+[__FrontHub__][53]                                        | _Ульяновск, Россия_                 | [youtu.be/43r7BckwquU][54]
 
 ## Английский
 
@@ -102,3 +102,5 @@
 [50]: http://youtube.com/user/404fest
 [51]: http://frameworksdays.com/event/js-frameworks-day-2014
 [52]: http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ
+[53]: http://front-end.su/
+[54]: http://youtu.be/43r7BckwquU
