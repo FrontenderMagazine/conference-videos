@@ -9,7 +9,7 @@
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__StartupLviv__][0]                                      |  _Львов, Украина_                   | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg][1]
-[__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
+[__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
 
 
 ## Русский
