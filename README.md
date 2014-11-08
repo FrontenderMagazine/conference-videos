@@ -9,6 +9,7 @@
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__StartupLviv__][0]                                      |  _Львов, Украина_                   | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg][1]
+[__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
 
 
 ## Русский
@@ -99,3 +100,5 @@
 [48]: http://2014.frontendconf.ch/en/
 [49]: https://www.youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg
 [50]: http://youtube.com/user/404fest
+[51]: http://frameworksdays.com/event/js-frameworks-day-2014
+[52]: http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ
