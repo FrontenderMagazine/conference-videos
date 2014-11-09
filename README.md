@@ -30,6 +30,7 @@
 [__FrontHub__][53]                                        | _Ульяновск, Россия_                 | [youtu.be/43r7BckwquU][54]
 [__Форум Технологий mail.ru__][55]                        | _Москва, Россия_                    | __2012__: [youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr][56]
                                                           |                                     | __2013__: [youtube.com/watch?v=f-GET3lT4wo&list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS][57]
+[__SPB Frontend__][58]                                    | _Санкт-Петербург, Россия_           | [youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed][59]
 
 ## Английский
 
@@ -109,3 +110,5 @@
 [55]: https://techforum.mail.ru/
 [56]: http://www.youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr
 [57]: http://www.youtube.com/playlist?list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS
+[58]: https://vk.com/spb_frontend
+[59]: http://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed
