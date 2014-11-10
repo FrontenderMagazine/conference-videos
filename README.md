@@ -52,6 +52,7 @@
 [__dotJS__][44]                                           | _Париж, Франция_                    | [youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL][45]
 [__Web Conferences Amsterdam__][46]                       | _Amsterdam, Netherlands_            | [vimeo.com/webconferences][47]
 [__Frontendconf Zürich__][48]                             | _Цюрих, Швейцария_                  | [youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg][49]
+[__AngularJS Oslo Meetup__][62]                           | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][63]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -115,3 +116,5 @@
 [59]: http://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed
 [60]: https://facebook.com/groups/webnotbombs/
 [61]: https://youtube.com/user/webnotbombsvideos
+[62]: http://meetup.com/AngularJS-Oslo
+[63]: https://vimeo.com/channels/angularjs
