@@ -59,7 +59,7 @@ __Android Developers__                                    | _Везде_       
 [__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
 [__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71] 
 [__AngularJS Oslo__][72]                                  | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][73]
-[The O’Reilly Fluent Conference][74]                      | _Сан-Франциско, США_                | [youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K][75]
+[__The O’Reilly Fluent Conference__][74]                      | _Сан-Франциско, США_                | [youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K][75]
                                                           |                                     | [vimeo.com/68716827][76]
                                                           |                                     | [vimeo.com/91393694][77]
                                                           |                                     | [vimeo.com/69727585][78]
