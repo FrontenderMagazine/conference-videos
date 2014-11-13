@@ -58,7 +58,11 @@ __Android Developers__                                    | _Везде_       
 [__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
 [__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
 [__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71] 
-[__AngularJS Oslo__][72] | _Осло, Норвегия_ | [vimeo.com/channels/angularjs][73]
+[__AngularJS Oslo__][72]                                  | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][73]
+[The O’Reilly Fluent Conference][74]                      | _Сан-Франциско, США_                | [youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K][75]
+                                                          |                                     | [vimeo.com/68716827][76]
+                                                          |                                     | [vimeo.com/91393694][77]
+                                                          |                                     | [vimeo.com/69727585][78]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -134,3 +138,9 @@ __Android Developers__                                    | _Везде_       
 [71]: https://vimeo.com/channels/776898
 [72]: http://www.meetup.com/AngularJS-Oslo/
 [73]: https://vimeo.com/channels/angularjs
+
+[74]: http://fluentconf.com/
+[76]: https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K
+[75]: https://vimeo.com/68716827
+[77]: https://vimeo.com/91393694
+[78]: https://vimeo.com/69727585
