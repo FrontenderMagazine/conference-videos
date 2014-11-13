@@ -10,7 +10,7 @@
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__StartupLviv__][0]                                      |  _Львов, Украина_                   | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg][1]
 [__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
-
+[__Odessa JS__][80]                                       |  _Одесса, Украина_                  | [youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg][81]
 
 ## Русский
 
@@ -145,3 +145,5 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [77]: https://vimeo.com/91393694
 [78]: https://vimeo.com/69727585
 [79]: https://vimeo.com/channels/802776
+[80]: http://odessajs.org.ua/
+[81]: https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg
