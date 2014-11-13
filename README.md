@@ -57,6 +57,8 @@ __Facebook Developers__                                   | _Везде_       
 __Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
 [__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
 [__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
+[__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71] 
+[__AngularJS Oslo__][72] | _Осло, Норвегия_ | [vimeo.com/channels/angularjs][73]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -128,3 +130,7 @@ __Android Developers__                                    | _Везде_       
 [67]: https://vimeo.com/channels/smashingconf
 [68]: http://fromthefront.it/
 [69]: https://vimeo.com/fromthefront
+[70]: http://beyondtellerrand.com/
+[71]: https://vimeo.com/channels/776898
+[72]: http://www.meetup.com/AngularJS-Oslo/
+[73]: https://vimeo.com/channels/angularjs
