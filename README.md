@@ -53,6 +53,8 @@
 [__Web Conferences Amsterdam__][46]                       | _Amsterdam, Netherlands_            | [vimeo.com/webconferences][47]
 [__Frontendconf Zürich__][48]                             | _Цюрих, Швейцария_                  | [youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg][49]
 [__AngularJS Oslo Meetup__][62]                           | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][63]
+__Facebook Developers__                                   | _Везде_                             | [youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw][64]
+__Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -118,3 +120,6 @@
 [61]: https://youtube.com/user/webnotbombsvideos
 [62]: http://meetup.com/AngularJS-Oslo
 [63]: https://vimeo.com/channels/angularjs
+[64]: https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw
+[65]: https://www.youtube.com/user/androiddevelopers
+
