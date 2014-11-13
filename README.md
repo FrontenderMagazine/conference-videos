@@ -55,7 +55,7 @@
 [__AngularJS Oslo Meetup__][62]                           | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][63]
 __Facebook Developers__                                   | _Везде_                             | [youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw][64]
 __Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
-
+[__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
 [2]: http://webstandardsdays.ru/
@@ -122,4 +122,6 @@ __Android Developers__                                    | _Везде_       
 [63]: https://vimeo.com/channels/angularjs
 [64]: https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw
 [65]: https://www.youtube.com/user/androiddevelopers
+[66]: http://smashingconf.com/
+[67]: https://vimeo.com/channels/smashingconf
 
