@@ -56,6 +56,8 @@
 __Facebook Developers__                                   | _Везде_                             | [youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw][64]
 __Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
 [__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
+[__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
+
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
 [2]: http://webstandardsdays.ru/
@@ -124,4 +126,5 @@ __Android Developers__                                    | _Везде_       
 [65]: https://www.youtube.com/user/androiddevelopers
 [66]: http://smashingconf.com/
 [67]: https://vimeo.com/channels/smashingconf
-
+[68]: http://fromthefront.it/
+[69]: https://vimeo.com/fromthefront
