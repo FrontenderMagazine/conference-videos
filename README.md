@@ -63,6 +63,7 @@ __Android Developers__                                    | _Везде_       
                                                           |                                     | [vimeo.com/68716827][76]
                                                           |                                     | [vimeo.com/91393694][77]
                                                           |                                     | [vimeo.com/69727585][78]
+__Gotham JS JavaScript__                                  |                                     | [vimeo.com/channels/802776][79]
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -138,9 +139,9 @@ __Android Developers__                                    | _Везде_       
 [71]: https://vimeo.com/channels/776898
 [72]: http://www.meetup.com/AngularJS-Oslo/
 [73]: https://vimeo.com/channels/angularjs
-
 [74]: http://fluentconf.com/
 [76]: https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K
 [75]: https://vimeo.com/68716827
 [77]: https://vimeo.com/91393694
 [78]: https://vimeo.com/69727585
+[79]: https://vimeo.com/channels/802776
