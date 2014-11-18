@@ -31,7 +31,7 @@
 [__Форум Технологий mail.ru__][55]                        | _Москва, Россия_                    | __2012__: [youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr][56]
                                                           |                                     | __2013__: [youtube.com/watch?v=f-GET3lT4wo&list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS][57]
 [__SPB Frontend__][58]                                    | _Санкт-Петербург, Россия_           | [youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed][59]
-[__Web Not Bombs__][60]                                       | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
+[__Web Not Bombs__][60]                                   | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
 [__World Usability Day (Belarus)__][82]                   | _Минск, Беларусь_                   | __2014__: [https://gist.github.com/boccob/e30dc862bba3aca86702][83]
 
 ## Английский
