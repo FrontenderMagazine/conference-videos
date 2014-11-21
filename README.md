@@ -43,7 +43,7 @@
 [__Web Rebels__][24]                                      | _Осло, Норвегия_                    | [vimeo.com/webrebels][25]
 [__CSS Day__][26]                                         | _Амстердам, Нидерланды_             | [vimeo.com/channels/cssday][27]
 [__Google Chrome Developers__][28]                        | _Везде_                             | [youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw][29]
-                                                          |                                     |__2014__:  [https://youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][84]
+                                                          |                                     |__2014__:  [youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][84]
 [__JSConf__][30]                                          | _Везде_                             | [youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA][31]
 [__ngConf__][32]                                          | _Юта, США_                          | [youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA][33]
 [__Front End Ops Conference__][34]                        | _Сан-Франциско, США_                | [youtube.com/user/frontendopsconf][35]
