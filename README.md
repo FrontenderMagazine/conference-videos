@@ -67,6 +67,7 @@ __Android Developers__                                    | _Везде_       
                                                           |                                     | [vimeo.com/69727585][78]
 __Gotham JS JavaScript__                                  | _Нью-Йорк, США_                     | [vimeo.com/channels/802776][79]
 [__Chrome Dev Summit 2014__][85]                          | _Маунтейн Вью, США_                 | [youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][86]
+[__Google Developers Events__][88]                        | _Везде_                             | [http://www.youtube.com/user/GoogleDevelopers/playlists?sort=dd&view=50&shelf_id=28][87]
 
 
 [0]: http://startup.lviv.ua/
@@ -156,3 +157,5 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [84]: https://youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
 [85]: https://developer.chrome.com/devsummit/
 [86]: https://www.youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
+[87]: http://www.youtube.com/user/GoogleDevelopers/playlists?sort=dd&view=50&shelf_id=28
+[88]: https://developers.google.com/
