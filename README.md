@@ -9,7 +9,8 @@
 Конференция                                               | Место проведения                    | Ссылки на видео
 ----------------------------------------------------------|-------------------------------------|-------------------------------------------------
 [__StartupLviv__][0]                                      |  _Львов, Украина_                   | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg][1]
-
+[__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
+[__Odessa JS__][80]                                       |  _Одесса, Украина_                  | [youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg][81]
 
 ## Русский
 
@@ -26,8 +27,13 @@
 [__The Rolling Scopes__][16]                              | _Минск, Беларусь_                   | [youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ][17]
 [__CodeFest__][18]                                        | _Новосибирск, Россия_               | [youtube.com/user/codefestru][19]
 [__404fest__][50]                                         | _Самара, Россия_                    | [youtube.com/user/404fest][50]
+[__FrontHub__][53]                                        | _Ульяновск, Россия_                 | [youtu.be/43r7BckwquU][54]
+[__Форум Технологий mail.ru__][55]                        | _Москва, Россия_                    | __2012__: [youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr][56]
+                                                          |                                     | __2013__: [youtube.com/watch?v=f-GET3lT4wo&list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS][57]
+[__SPB Frontend__][58]                                    | _Санкт-Петербург, Россия_           | [youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed][59]
+[__Web Not Bombs__][60]                                   | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
+[__World Usability Day (Belarus)__][82]                   | _Минск, Беларусь_                   | __2014__: [https://gist.github.com/boccob/e30dc862bba3aca86702][83]
 [__Ростовское IT-сообщество__][it61]                      | _Ростов-на-Дону, Россия_            | [youtube.com/channel/UC63xTveSry1vvpWbM877K9Q][it61-videos]
-
 
 ## Английский
 
@@ -38,6 +44,7 @@
 [__Web Rebels__][24]                                      | _Осло, Норвегия_                    | [vimeo.com/webrebels][25]
 [__CSS Day__][26]                                         | _Амстердам, Нидерланды_             | [vimeo.com/channels/cssday][27]
 [__Google Chrome Developers__][28]                        | _Везде_                             | [youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw][29]
+                                                          |                                     |__2014__:  [youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][84]
 [__JSConf__][30]                                          | _Везде_                             | [youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA][31]
 [__ngConf__][32]                                          | _Юта, США_                          | [youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA][33]
 [__Front End Ops Conference__][34]                        | _Сан-Франциско, США_                | [youtube.com/user/frontendopsconf][35]
@@ -48,6 +55,20 @@
 [__dotJS__][44]                                           | _Париж, Франция_                    | [youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL][45]
 [__Web Conferences Amsterdam__][46]                       | _Amsterdam, Netherlands_            | [vimeo.com/webconferences][47]
 [__Frontendconf Zürich__][48]                             | _Цюрих, Швейцария_                  | [youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg][49]
+[__AngularJS Oslo Meetup__][62]                           | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][63]
+__Facebook Developers__                                   | _Везде_                             | [youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw][64]
+__Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
+[__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
+[__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
+[__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71] 
+[__AngularJS Oslo__][72]                                  | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][73]
+[__The O’Reilly Fluent Conference__][74]                  | _Сан-Франциско, США_                | [youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K][75]
+                                                          |                                     | [vimeo.com/68716827][76]
+                                                          |                                     | [vimeo.com/91393694][77]
+                                                          |                                     | [vimeo.com/69727585][78]
+__Gotham JS JavaScript__                                  | _Нью-Йорк, США_                     | [vimeo.com/channels/802776][79]
+[__Chrome Dev Summit 2014__][85]                          | _Маунтейн Вью, США_                 | [youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][86]
+
 
 [0]: http://startup.lviv.ua/
 [1]: https://youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg
@@ -100,5 +121,41 @@
 [48]: http://2014.frontendconf.ch/en/
 [49]: https://www.youtube.com/channel/UCO1YboJ-hVgsxeRDiOFQLlg
 [50]: http://youtube.com/user/404fest
+[51]: http://frameworksdays.com/event/js-frameworks-day-2014
+[52]: http://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ
+[53]: http://front-end.su/
+[54]: http://youtu.be/43r7BckwquU
+[55]: https://techforum.mail.ru/
+[56]: http://www.youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr
+[57]: http://www.youtube.com/playlist?list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS
+[58]: https://vk.com/spb_frontend
+[59]: http://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed
+[60]: https://facebook.com/groups/webnotbombs/
+[61]: https://youtube.com/user/webnotbombsvideos
+[62]: http://meetup.com/AngularJS-Oslo
+[63]: https://vimeo.com/channels/angularjs
+[64]: https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw
+[65]: https://www.youtube.com/user/androiddevelopers
+[66]: http://smashingconf.com/
+[67]: https://vimeo.com/channels/smashingconf
+[68]: http://fromthefront.it/
+[69]: https://vimeo.com/fromthefront
+[70]: http://beyondtellerrand.com/
+[71]: https://vimeo.com/channels/776898
+[72]: http://www.meetup.com/AngularJS-Oslo/
+[73]: https://vimeo.com/channels/angularjs
+[74]: http://fluentconf.com/
+[76]: https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K
+[75]: https://vimeo.com/68716827
+[77]: https://vimeo.com/91393694
+[78]: https://vimeo.com/69727585
+[79]: https://vimeo.com/channels/802776
+[80]: https://www.facebook.com/events/493782437326758/
+[81]: https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg
+[82]: http://wud.usability.by/
+[83]: https://gist.github.com/boccob/e30dc862bba3aca86702
+[84]: https://youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
+[85]: https://developer.chrome.com/devsummit/
+[86]: https://www.youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
 [it61]: http://vk.com/it_61
 [it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
