@@ -34,7 +34,7 @@
 [__Web Not Bombs__][60]                                   | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
 [__World Usability Day (Belarus)__][82]                   | _Минск, Беларусь_                   | __2014__: [https://gist.github.com/boccob/e30dc862bba3aca86702][83]
 [__Ростовское IT-сообщество__][it61]                      | _Ростов-на-Дону, Россия_            | [youtube.com/channel/UC63xTveSry1vvpWbM877K9Q][it61-videos]
-[Yaroslavl Frontend Meetup][87]                     | _Ярославль, Россия_                 | [YouTube Playlist][88]
+[__Yaroslavl Frontend Meetup__][87]                     | _Ярославль, Россия_                 | [YouTube Playlist][88]
 
 ## Английский
 
