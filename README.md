@@ -11,7 +11,7 @@
 [__StartupLviv__][0]                                      |  _Львов, Украина_                   | [youtube.com/channel/UC5pkffv9LpA4y8wppOtjzOg][1]
 [__JavaScript frameworks day__][51]                       |  _Киев, Украина_                    | [youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ][52]
 [__Odessa JS__][80]                                       |  _Одесса, Украина_                  | [youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg][81]
-
+[__iForum__][iforum87]                                       |  _Киев, Украина_                  | [youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg][iforum87_video]
 ## Русский
 
 Конференция                                               | Место проведения                    | Ссылки на видео
@@ -162,3 +162,5 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [88]: http://www.youtube.com/playlist?list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex
 [it61]: http://vk.com/it_61
 [it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
+[iforum87]: http://iforum.ua/
+[iforum87_video]: https://www.youtube.com/channel/UCesgZQgqOgim9gefPV3Bjlg
