@@ -34,6 +34,7 @@
 [__Web Not Bombs__][60]                                   | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
 [__World Usability Day (Belarus)__][82]                   | _Минск, Беларусь_                   | __2014__: [https://gist.github.com/boccob/e30dc862bba3aca86702][83]
 [__Ростовское IT-сообщество__][it61]                      | _Ростов-на-Дону, Россия_            | [youtube.com/channel/UC63xTveSry1vvpWbM877K9Q][it61-videos]
+[__Yaroslavl Frontend Meetup__][87]                     | _Ярославль, Россия_                 | [YouTube Playlist][88]
 
 ## Английский
 
@@ -157,5 +158,7 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [84]: https://youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
 [85]: https://developer.chrome.com/devsummit/
 [86]: https://www.youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d
+[87]: http://yarfrontend.ru/
+[88]: http://www.youtube.com/playlist?list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex
 [it61]: http://vk.com/it_61
 [it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
