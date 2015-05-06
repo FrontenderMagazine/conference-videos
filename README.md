@@ -70,6 +70,7 @@ __Android Developers__                                    | _Везде_       
 __Gotham JS JavaScript__                                  | _Нью-Йорк, США_                     | [vimeo.com/channels/802776][79]
 [__Chrome Dev Summit 2014__][85]                          | _Маунтейн Вью, США_                 | [youtube.com/playlist?list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d][86]
 [__Google Developers Events__][89]                        | _Везде_                             | [http://www.youtube.com/user/GoogleDevelopers/playlists?sort=dd&view=50&shelf_id=28][90]
+[__EmpireJS__][91]                                        | _Нью-Йорк, США_                     | [youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg][92]
 
 
 [0]: http://startup.lviv.ua/
@@ -163,6 +164,8 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [88]: http://www.youtube.com/playlist?list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex
 [89]: https://developers.google.com/
 [90]: http://www.youtube.com/user/GoogleDevelopers/playlists?sort=dd&view=50&shelf_id=28
+[91]: http://empirejs.org/
+[92]: https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg
 [it61]: http://vk.com/it_61
 [it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
 [iforum87]: http://iforum.ua/
