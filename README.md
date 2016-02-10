@@ -1,6 +1,6 @@
 # Видео с фронтенд-конференций
 
-Если у вас есть ссылки на видео, которые тут не представлены — сделайте, 
+Если у вас есть ссылки на видео, которые тут не представлены — сделайте,
 пожалуйста, пулл-реквест, и мы их добавим.
 
 
@@ -31,6 +31,7 @@
 [__Форум Технологий mail.ru__][55]                        | _Москва, Россия_                    | __2012__: [youtube.com/playlist?list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr][56]
                                                           |                                     | __2013__: [youtube.com/watch?v=f-GET3lT4wo&list=PLq0VPil64bGy6E3H3C4WJzEyVmStbEEXS][57]
 [__SPB Frontend__][58]                                    | _Санкт-Петербург, Россия_           | [youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA/feed][59]
+[__PiterJS__][piterjs]                                    | _Санкт-Петербург, Россия_           | [youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw][piterjs]
 [__Web Not Bombs__][60]                                   | _Минск, Беларусь_                   | [youtube.com/user/webnotbombsvideos][61]
 [__World Usability Day (Belarus)__][82]                   | _Минск, Беларусь_                   | __2014__: [https://gist.github.com/boccob/e30dc862bba3aca86702][83]
 [__Ростовское IT-сообщество__][it61]                      | _Ростов-на-Дону, Россия_            | [youtube.com/channel/UC63xTveSry1vvpWbM877K9Q][it61-videos]
@@ -61,7 +62,7 @@ __Facebook Developers__                                   | _Везде_       
 __Android Developers__                                    | _Везде_                             | [youtube.com/user/androiddevelopers][65]
 [__Smashing Conference__][66]                             | _Везде_                             |  [vimeo.com/channels/smashingconf][67]
 [__From The Front__][68]                                  | _Болонья, Италия_                   | [vimeo.com/fromthefront][69]
-[__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71] 
+[__Beyond tellerrand__][70]                               | _Берлин, Германия_                  | [vimeo.com/channels/776898][71]
 [__AngularJS Oslo__][72]                                  | _Осло, Норвегия_                    | [vimeo.com/channels/angularjs][73]
 [__The O’Reilly Fluent Conference__][74]                  | _Сан-Франциско, США_                | [youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K][75]
                                                           |                                     | [vimeo.com/68716827][76]
@@ -170,3 +171,4 @@ __Gotham JS JavaScript__                                  | _Нью-Йорк, 
 [it61-videos]: http://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q/videos
 [iforum87]: http://iforum.ua/
 [iforum87_video]: https://www.youtube.com/channel/UCesgZQgqOgim9gefPV3Bjlg
+[piterjs]: https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw
